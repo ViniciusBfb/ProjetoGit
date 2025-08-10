@@ -1,0 +1,1 @@
+Esse é o projeto inicial, onde estarei aprendendo a mecher no Git e GitHub, com intuito de aprendizado e futuramente usa-lo para projetos pesoais e profissionais.
